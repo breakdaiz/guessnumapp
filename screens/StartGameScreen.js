@@ -1,4 +1,4 @@
-import { StyleSheet, View, TextInput, Button } from "react-native";
+import { StyleSheet, View, TextInput } from "react-native";
 import React from "react";
 import PrimaryButton from "../components/PrimaryButton";
 
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginTop: 100,
     padding: 16,
-    backgroundColor: "#4e0329",
+    backgroundColor: "#3b021f",
     elevation: 4,
     shadowColor: "black",
     shadowOffset: { width: 0, height: 2 },
