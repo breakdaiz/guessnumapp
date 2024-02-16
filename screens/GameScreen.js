@@ -3,7 +3,7 @@ import React from "react";
 
 export default function GameScreen() {
   return (
-    <View>
+    <View style={styles.screen}>
       <Text>Opponent's guess </Text>
       <View>
         <Text>Higher or lower!</Text>
